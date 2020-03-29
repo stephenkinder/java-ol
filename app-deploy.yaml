@@ -5,6 +5,10 @@ metadata:
     architecture: x86_64
     authoritative-source-url: registry.access.redhat.com
     build-date: 2019-10-29T16:44:53.794580
+    commit.image.appsody.dev/author: Stephen Kinder <aasjkaa@gmail.com>
+    commit.image.appsody.dev/committer: Stephen Kinder <aasjkaa@gmail.com>
+    commit.image.appsody.dev/date: Sat Mar 28 10:31:02 2020 -0400
+    commit.image.appsody.dev/message: appsody init
     commit.stack.appsody.dev/author: Steve Groeger <groeges@uk.ibm.com>
     commit.stack.appsody.dev/committer: GitHub <noreply@github.com>
     commit.stack.appsody.dev/contextDir: /incubator/java-openliberty
@@ -13,7 +17,11 @@ metadata:
     description: This image is the Kabanero development container for the java-openliberty
       stack
     distribution-scope: public
-    image.opencontainers.org/created: "2020-03-28T10:29:52-04:00"
+    image.opencontainers.org/created: "2020-03-29T10:46:47-04:00"
+    image.opencontainers.org/documentation: https://github.com/stephenkinder/java-ol
+    image.opencontainers.org/revision: 7e203d753fe4fb31bcf023a93abeeb9b5bc45ffc-modified
+    image.opencontainers.org/source: https://github.com/stephenkinder/java-ol/tree/master
+    image.opencontainers.org/url: https://github.com/stephenkinder/java-ol
     k8s.io/description: The Universal Base Image is designed and engineered to be
       the base layer for all of your containerized applications, middleware and utilities.
       This base image is freely redistributable, but Red Hat only supports Red Hat

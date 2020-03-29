@@ -31,7 +31,7 @@ public class StarterResource {
         ex.printStackTrace();
     }
 
-        return Response.ok("Hello, World! Hosted by Open Liberty v("+libertyVersion+")")
+        return Response.ok("Hello, Sick World! Hosted by Open Liberty v("+libertyVersion+")")
                 .build();
     }
 }
