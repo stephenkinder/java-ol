@@ -1,2 +1,3 @@
+id: "20200505125656.81866400"
 project-name: java-ol
 stack: docker.io/kabanero/java-openliberty:0.2

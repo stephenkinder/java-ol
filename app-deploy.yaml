@@ -7,19 +7,19 @@ metadata:
     build-date: 2019-10-29T16:44:53.794580
     commit.image.appsody.dev/author: Stephen Kinder <aasjkaa@gmail.com>
     commit.image.appsody.dev/committer: Stephen Kinder <aasjkaa@gmail.com>
-    commit.image.appsody.dev/date: Sat Mar 28 10:31:02 2020 -0400
-    commit.image.appsody.dev/message: appsody init
-    commit.stack.appsody.dev/author: Steve Groeger <groeges@uk.ibm.com>
+    commit.image.appsody.dev/date: Tue May 5 07:58:24 2020 -0400
+    commit.image.appsody.dev/message: update
+    commit.stack.appsody.dev/author: kilnerm <38245247+kilnerm@users.noreply.github.com>
     commit.stack.appsody.dev/committer: GitHub <noreply@github.com>
     commit.stack.appsody.dev/contextDir: /incubator/java-openliberty
-    commit.stack.appsody.dev/date: Tue Mar 10 21:35:36 2020 +0000
-    commit.stack.appsody.dev/message: 'Merge pull request #313 from groeges/release-0.6'
+    commit.stack.appsody.dev/date: Fri Apr 3 09:22:57 2020 +0100
+    commit.stack.appsody.dev/message: 'Merge pull request #316 from groeges/release-0.6'
     description: This image is the Kabanero development container for the java-openliberty
       stack
     distribution-scope: public
-    image.opencontainers.org/created: "2020-03-29T10:46:47-04:00"
+    image.opencontainers.org/created: "2020-05-05T12:57:00-04:00"
     image.opencontainers.org/documentation: https://github.com/stephenkinder/java-ol
-    image.opencontainers.org/revision: 7e203d753fe4fb31bcf023a93abeeb9b5bc45ffc-modified
+    image.opencontainers.org/revision: 3184d50fec1aa29b76e9cda9a5bbc8d8e87cb7df-modified
     image.opencontainers.org/source: https://github.com/stephenkinder/java-ol/tree/master
     image.opencontainers.org/url: https://github.com/stephenkinder/java-ol
     k8s.io/description: The Universal Base Image is designed and engineered to be
@@ -39,11 +39,12 @@ metadata:
     stack.appsody.dev/authors: Mike Andrasak <andrasak@us.ibm.com>, Andy Mauer <ajmauer@us.ibm.com>,
       Scott Kurz <skurz@us.ibm.com>, Adam Wisniewski <awisniew@us.ibm.com>
     stack.appsody.dev/configured: docker.io/kabanero/java-openliberty:0.2
-    stack.appsody.dev/created: "2020-03-10T21:42:07Z"
+    stack.appsody.dev/created: "2020-04-21T06:48:22Z"
     stack.appsody.dev/description: Open Liberty & OpenJ9 using Maven
+    stack.appsody.dev/digest: sha256:185a3d53d4eeb5dffc52ddf22575bff473226fb53f43111646e5c0a131ff1f8f
     stack.appsody.dev/documentation: https://github.com/kabanero-io/collections/tree/master/incubator/java-openliberty/README.md
     stack.appsody.dev/licenses: Apache-2.0
-    stack.appsody.dev/revision: 5f7634c970b880bef90eeea4288153249e172d61
+    stack.appsody.dev/revision: 27a3254c80e6c5367a76e6099c2e18b393d15841
     stack.appsody.dev/source: https://github.com/kabanero-io/collections/tree/master/incubator/java-openliberty/image
     stack.appsody.dev/tag: docker.io/kabanero/java-openliberty:0.2.3
     stack.appsody.dev/title: Open Liberty
